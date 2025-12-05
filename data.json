@@ -1,4 +1,12 @@
-[     {"title": "Three prototypes: Parmesan, MathGloss and MathAnnotator",
+[    {"title": "Lambda-calculi for Logics",
+"talk_link": "https://www.cs.uoregon.edu/research/summerschool/summer25/_videos/Depaiva1-1.mp4",
+"author": "Valeria de Paiva",
+"date": "23 June 2025",
+"author_image": "valeria-de-paiva.png",
+"author_link": "http://vcvpaiva.github.io",
+"description": "Lecture course at Oregon Programming Languages Summer School (part 1)."},  
+      
+      {"title": "Three prototypes: Parmesan, MathGloss and MathAnnotator",
 "talk_link": "https://www.youtube.com/watch?v=l9RbBSxjCso",
 "author": "Valeria de Paiva and Lucy Horowitz",
 "date": "15 July 2024",
